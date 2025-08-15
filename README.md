@@ -6,4 +6,4 @@ This program is a simple and tiny example of how an API Health Monitoring system
 
   Run with commands:
   1. tsc
-  2. node dist.js
+  2. node dist/Health-Check.js
